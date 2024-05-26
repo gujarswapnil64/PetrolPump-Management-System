@@ -1,0 +1,85 @@
+
+.colorback{
+
+background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);
+}
+
+.center_set{
+	
+	margin:0 auto;
+	width:70%;
+	height:500px;
+	 background-image: url(p.jpg);
+            background-repeat: no-repeat;
+            background-size: cover; 
+	position:relative;
+}
+  
+  .setting{
+     margin-left:50px;
+     margin-top:50px;
+  }
+.custom-shape-divider-bottom-1713461588 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1713461588 svg {
+    position: relative;
+    display: block;
+    width: calc(146% + 1.3px);
+    height: 215px;
+}
+
+.custom-shape-divider-bottom-1713461588 .shape-fill {
+    fill: #495057;
+}
+
+.welcome{	
+	position:relative;
+	left:710px;
+	top:-100px;
+	color:white;
+	text-shadow: 3px 3px 10px #ff0000;
+}
+
+.to{
+	position:relative;
+	left:850px;
+	top:-120px;
+	color:white;
+	text-shadow: 3px 3px 10px #ff0000;
+}
+
+.PetrolPump{
+	position:relative;
+	left:720px;
+	top:-145px;
+	color:white;
+	text-shadow: 3px 3px 10px #ff0000;
+}
+.Management{
+		position:relative;
+	left:740px;
+	top:-169px;
+	color:white;
+	text-shadow: 3px 3px 10px #ff0000;
+}
+.table-k{
+	overflow-y:scroll;
+}
+.System{
+	position:relative;
+	left:820px;
+	top:-185px;
+	color:white;
+	text-shadow: 3px 3px 10px #ff0000;
+}
+.first-page-setting{
+	
+}
